@@ -9,12 +9,11 @@ Cybersecurity student focused on red teaming, penetration testing, ethical hacki
 - Cyber Threat Intelligence automation through ACTIT
 - Linux, networking, and secure software engineering
 
-## Selected work
+## Featured projects
 
-- [ACTIT / CTI-Tool](https://github.com/AmmarAikan/CTI-Tool) — graduation-project platform for collecting, processing, enriching, correlating, and presenting cyber threat intelligence.
-- [API Heist Academy — Hardened Edition](https://github.com/AmmarAikan/api_heist) — defensive remediation of an intentionally vulnerable OWASP API Security Top 10 lab.
-- [SecureVault AES](https://github.com/AmmarAikan/SecureVault-AES-Java) — tested AES-256-GCM desktop encryption for text and files.
-- [ProfileGuard Secure](https://github.com/AmmarAikan/ProfileGuard-Secure) — Flask secure-programming coursework with RBAC, CSRF protection, encrypted fields, rate limiting, and audit logging.
+- [ACTIT Platform](https://github.com/AmmarAikan/ACTIT-Platform) — a unified AI-assisted platform that fuses internal telemetry with external threat sources to deliver explainable, actionable cyber threat intelligence.
+- [AI Firewall Rule Optimizer](https://github.com/AmmarAikan/AI-Firewall-Rule-Optimizer-GA-Flask) — traffic-aware genetic-algorithm optimization for first-match firewall policies, with tests, reports, and a Flask interface.
+- [SecureVault AES](https://github.com/AmmarAikan/SecureVault-AES-Java) — a privacy-first Java desktop application for authenticated text and file encryption using AES-256-GCM.
 
 ## Links
 
